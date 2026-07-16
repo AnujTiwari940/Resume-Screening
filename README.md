@@ -59,7 +59,7 @@ A modern, AI-powered platform for intelligent resume screening and candidate ran
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/sift.git
+git clone https://github.com/AnujTiwari940/sift.git
 cd sift
 ```
 
@@ -267,14 +267,6 @@ PORT=5001
 - [ ] Analytics dashboard
 - [ ] Email notifications
 - [ ] API rate limiting
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-For support, email support@sift.com or open an issue on GitHub.
 
 ## Acknowledgments
 
