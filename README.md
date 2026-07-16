@@ -3,6 +3,7 @@
 A modern, AI-powered platform for intelligent resume screening and candidate ranking. Sift leverages keyword matching, skill detection, and scoring algorithms to help recruiters quickly identify the best candidates.
 
 ## Landing Page
+![image alt](https://github.com/AnujTiwari940/Resume-Screening/blob/4054e5acabf3b6603cb762df657373fe69cd022b/Landing%20Page.png)
 ## Features
 
 ✨ **Smart Resume Screening**
