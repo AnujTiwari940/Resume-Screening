@@ -11,6 +11,9 @@ A modern, AI-powered platform for intelligent resume screening and candidate ran
 ## Resume Upload
 ![image alt](https://github.com/AnujTiwari940/Resume-Screening/blob/81abb4455f86a84ffa90047f0e03d856027c2430/Resume%20Upload.png)
 
+##Candidates Ranking
+![image alt](https://github.com/AnujTiwari940/Resume-Screening/blob/b0c2ed1a16f2f7b0fb0d93d1dfb0a06e9aa7a750/Ranking.png)
+
 ## Features
 
 ✨ **Smart Resume Screening**
